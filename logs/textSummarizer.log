@@ -1,2 +1,185 @@
-2025-06-16 17:51:34,362 - INFO - Logging setup complete. Starting the application...
-2025-06-16 17:52:08,870 - INFO - Logging setup complete. Starting the application...
+2025-06-17 20:20:56,662 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:20:56,665 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:20:56,666 - INFO - created directory at: artifacts
+2025-06-17 20:20:56,667 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:20:56,669 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:20:56,669 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:20:56,670 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:20:56,670 - INFO - created directory at: artifacts
+2025-06-17 20:20:56,670 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:20:56,670 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:20:56,671 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:20:56,671 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:20:56,672 - INFO - Downloading file from https:/github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip to artifacts/data_ingestion/data.zip
+2025-06-17 20:23:32,799 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:23:32,801 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:23:32,802 - INFO - created directory at: artifacts
+2025-06-17 20:23:32,803 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:23:32,803 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:23:32,805 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:23:32,806 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:23:32,806 - INFO - created directory at: artifacts
+2025-06-17 20:23:32,806 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:23:32,807 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:23:32,807 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:23:32,808 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:23:32,808 - INFO - self.config.local_data_file: artifacts/data_ingestion/data.zip
+2025-06-17 20:23:32,809 - INFO - Downloading file from https:/github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip to artifacts/data_ingestion/data.zip
+2025-06-17 20:24:07,069 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:24:07,070 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:24:07,071 - INFO - created directory at: artifacts
+2025-06-17 20:24:07,071 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:24:07,072 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:24:07,073 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:24:07,073 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:24:07,074 - INFO - created directory at: artifacts
+2025-06-17 20:24:07,074 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:24:07,074 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:24:07,075 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:24:07,075 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:24:07,076 - INFO - self.config.local_data_file: artifacts/data_ingestion/data.zip
+2025-06-17 20:25:30,826 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:25:30,828 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:25:30,829 - INFO - created directory at: artifacts
+2025-06-17 20:25:30,829 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:25:30,830 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:25:30,831 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:25:30,832 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:25:30,833 - INFO - created directory at: artifacts
+2025-06-17 20:25:30,833 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:25:30,834 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:25:30,834 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:25:30,835 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:25:30,835 - INFO - self.config.local_data_file: artifacts/data_ingestion/data.zip
+2025-06-17 20:25:30,835 - INFO - Downloading file from https:/github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip to artifacts/data_ingestion/data.zip
+2025-06-17 20:29:37,261 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:29:37,261 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:29:37,262 - INFO - created directory at: artifacts
+2025-06-17 20:29:37,262 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:29:37,262 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:29:37,266 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:29:37,268 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:29:37,268 - INFO - created directory at: artifacts
+2025-06-17 20:29:37,269 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:29:37,271 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:29:37,272 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:29:37,273 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:29:37,274 - INFO - self.config.local_data_file: artifacts/data_ingestion/data.zip
+2025-06-17 20:29:37,275 - INFO - Downloading file from https:/github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip to artifacts/data_ingestion/data.zip
+2025-06-17 20:30:25,517 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:30:25,518 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:30:25,518 - INFO - created directory at: artifacts
+2025-06-17 20:30:25,518 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:30:25,518 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:30:25,519 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:30:25,519 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:30:25,520 - INFO - created directory at: artifacts
+2025-06-17 20:30:25,520 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:30:25,520 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:30:25,520 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:30:25,521 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:30:25,521 - INFO - self.config.local_data_file: artifacts/data_ingestion/data.zip
+2025-06-17 20:30:25,521 - INFO - Downloading file from github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip to artifacts/data_ingestion/data.zip
+2025-06-17 20:31:11,892 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:31:11,894 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:31:11,894 - INFO - created directory at: artifacts
+2025-06-17 20:31:11,895 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:31:11,895 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:31:11,896 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:31:11,896 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:31:11,897 - INFO - created directory at: artifacts
+2025-06-17 20:31:11,897 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:31:11,898 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:31:11,899 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:31:11,900 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:31:11,901 - INFO - self.config.local_data_file: artifacts/data_ingestion/data.zip
+2025-06-17 20:31:11,901 - INFO - Downloading file from github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip to artifacts/data_ingestion/data.zip
+2025-06-17 20:32:14,834 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:32:14,836 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:32:14,837 - INFO - created directory at: artifacts
+2025-06-17 20:32:14,838 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:32:14,839 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:32:14,839 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:32:14,840 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:32:14,840 - INFO - created directory at: artifacts
+2025-06-17 20:32:14,840 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:32:14,841 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:32:14,841 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:32:14,842 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:32:14,842 - INFO - self.config.local_data_file: artifacts/data_ingestion/data.zip
+2025-06-17 20:32:14,842 - INFO - Downloading file from github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip to artifacts/data_ingestion/data.zip
+2025-06-17 20:32:28,024 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:32:28,026 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:32:28,027 - INFO - created directory at: artifacts
+2025-06-17 20:32:28,027 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:32:28,027 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:32:28,029 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:32:28,029 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:32:28,030 - INFO - created directory at: artifacts
+2025-06-17 20:32:28,030 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:32:28,030 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:32:28,031 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:32:28,031 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:32:28,031 - INFO - self.config.local_data_file: artifacts/data_ingestion/data.zip
+2025-06-17 20:32:28,031 - INFO - Downloading file from https:/github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip to artifacts/data_ingestion/data.zip
+2025-06-17 20:34:12,830 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:34:12,831 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:34:12,832 - INFO - created directory at: artifacts
+2025-06-17 20:34:12,832 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:34:12,832 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:34:12,833 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:34:12,833 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:34:12,834 - INFO - created directory at: artifacts
+2025-06-17 20:34:12,834 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:34:12,834 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:34:12,834 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:34:12,835 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:34:12,835 - INFO - self.config.local_data_file: artifacts/data_ingestion/data.zip
+2025-06-17 20:34:12,835 - INFO - Downloading file from https:/github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip to artifacts/data_ingestion/data.zip
+2025-06-17 20:34:25,699 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:34:25,699 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:34:25,700 - INFO - created directory at: artifacts
+2025-06-17 20:34:25,700 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:34:25,700 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:34:25,701 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:34:25,701 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:34:25,701 - INFO - created directory at: artifacts
+2025-06-17 20:34:25,702 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:34:25,702 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:34:25,702 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:34:25,702 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:34:25,703 - INFO - self.config.local_data_file: artifacts/data_ingestion/data.zip
+2025-06-17 20:34:25,703 - INFO - Downloading file from https:/github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip to artifacts/data_ingestion/data.zip
+2025-06-17 20:36:09,978 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:36:09,979 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:36:09,979 - INFO - created directory at: artifacts
+2025-06-17 20:36:09,979 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:36:09,980 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:36:09,980 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:36:09,981 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:36:09,981 - INFO - created directory at: artifacts
+2025-06-17 20:36:09,981 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:36:09,981 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:36:09,982 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:36:09,982 - INFO - Data Ingestion Config: DataIngestionConfig(root_dir=PosixPath('artifacts/data_ingestion'), source_url=PosixPath('https:/github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip'), local_data_file=PosixPath('artifacts/data_ingestion/data.zip'), unzip_dir=PosixPath('artifacts/data_ingestion'))
+2025-06-17 20:36:09,982 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:36:09,982 - INFO - Data Ingestion Config: DataIngestionConfig(root_dir=PosixPath('artifacts/data_ingestion'), source_url=PosixPath('https:/github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip'), local_data_file=PosixPath('artifacts/data_ingestion/data.zip'), unzip_dir=PosixPath('artifacts/data_ingestion'))
+2025-06-17 20:36:09,983 - INFO - self.config.local_data_file: artifacts/data_ingestion/data.zip
+2025-06-17 20:36:09,983 - INFO - Downloading file from https:/github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip to artifacts/data_ingestion/data.zip
+2025-06-17 20:40:05,995 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:40:05,996 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:40:05,996 - INFO - created directory at: artifacts
+2025-06-17 20:40:05,997 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:40:05,997 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:40:05,997 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-17 20:40:05,998 - INFO - yaml file: params.yaml loaded successfully
+2025-06-17 20:40:05,998 - INFO - created directory at: artifacts
+2025-06-17 20:40:05,998 - INFO - Configuration file loaded: config/config.yaml
+2025-06-17 20:40:05,998 - INFO - Parameters file loaded: params.yaml
+2025-06-17 20:40:05,999 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:40:06,000 - INFO - Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion')
+2025-06-17 20:40:06,000 - INFO - created directory at: artifacts/data_ingestion
+2025-06-17 20:40:06,000 - INFO - Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion')
+2025-06-17 20:40:06,000 - INFO - self.config.local_data_file: artifacts/data_ingestion/data.zip
+2025-06-17 20:40:06,001 - INFO - Downloading file from https://github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip to artifacts/data_ingestion/data.zip
+2025-06-17 20:40:10,578 - INFO - File is downloaded
