@@ -183,3 +183,57 @@
 2025-06-17 20:40:06,000 - INFO - self.config.local_data_file: artifacts/data_ingestion/data.zip
 2025-06-17 20:40:06,001 - INFO - Downloading file from https://github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip to artifacts/data_ingestion/data.zip
 2025-06-17 20:40:10,578 - INFO - File is downloaded
+2025-06-18 17:13:33,246 - INFO - Logging setup complete. Starting the application...
+2025-06-18 17:13:33,246 - INFO - Starting Data Ingestion Stage...
+2025-06-18 17:13:33,247 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-18 17:13:33,247 - INFO - yaml file: params.yaml loaded successfully
+2025-06-18 17:13:33,247 - INFO - created directory at: artifacts
+2025-06-18 17:13:33,247 - ERROR - An error occurred during Data Ingestion Stage: name 'logger' is not defined
+Traceback (most recent call last):
+  File "/Users/rajaanthonysamy/my_ml_projects/summarizer/TextSummarizer/main.py", line 12, in <module>
+    data_ingestion_pipeline.initiate_data_ingestion()
+  File "/Users/rajaanthonysamy/my_ml_projects/summarizer/TextSummarizer/src/textSummarizer/pipeline/stage_1_data_ingestion_pipeline.py", line 11, in initiate_data_ingestion
+    config=ConfigurationManager()
+  File "/Users/rajaanthonysamy/my_ml_projects/summarizer/TextSummarizer/src/textSummarizer/config/configuration.py", line 14, in __init__
+    logger.info(f"Configuration file loaded: {config_path}")
+NameError: name 'logger' is not defined
+2025-06-18 17:13:57,129 - INFO - Logging setup complete. Starting the application...
+2025-06-18 17:13:57,129 - INFO - Starting Data Ingestion Stage...
+2025-06-18 17:13:57,130 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-18 17:13:57,130 - INFO - yaml file: params.yaml loaded successfully
+2025-06-18 17:13:57,130 - INFO - created directory at: artifacts
+2025-06-18 17:13:57,130 - INFO - Configuration file loaded: config/config.yaml
+2025-06-18 17:13:57,130 - INFO - Parameters file loaded: params.yaml
+2025-06-18 17:13:57,130 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-18 17:13:57,130 - INFO - yaml file: params.yaml loaded successfully
+2025-06-18 17:13:57,130 - INFO - created directory at: artifacts
+2025-06-18 17:13:57,130 - INFO - Configuration file loaded: config/config.yaml
+2025-06-18 17:13:57,130 - INFO - Parameters file loaded: params.yaml
+2025-06-18 17:13:57,130 - INFO - created directory at: artifacts/data_ingestion
+2025-06-18 17:13:57,130 - INFO - Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion')
+2025-06-18 17:13:57,130 - INFO - created directory at: artifacts/data_ingestion
+2025-06-18 17:13:57,130 - INFO - Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion')
+2025-06-18 17:13:57,130 - INFO - self.config.local_data_file: artifacts/data_ingestion/data.zip
+2025-06-18 17:13:57,130 - INFO - Downloading file from https://github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip to artifacts/data_ingestion/data.zip
+2025-06-18 17:13:59,389 - INFO - File is downloaded
+2025-06-18 17:13:59,479 - INFO - Data Ingestion Stage completed successfully.
+2025-06-18 17:14:20,180 - INFO - Logging setup complete. Starting the application...
+2025-06-18 17:14:20,180 - INFO - Starting Data Ingestion Stage...
+2025-06-18 17:14:20,181 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-18 17:14:20,181 - INFO - yaml file: params.yaml loaded successfully
+2025-06-18 17:14:20,181 - INFO - created directory at: artifacts
+2025-06-18 17:14:20,181 - INFO - Configuration file loaded: config/config.yaml
+2025-06-18 17:14:20,181 - INFO - Parameters file loaded: params.yaml
+2025-06-18 17:14:20,181 - INFO - yaml file: config/config.yaml loaded successfully
+2025-06-18 17:14:20,181 - INFO - yaml file: params.yaml loaded successfully
+2025-06-18 17:14:20,181 - INFO - created directory at: artifacts
+2025-06-18 17:14:20,181 - INFO - Configuration file loaded: config/config.yaml
+2025-06-18 17:14:20,181 - INFO - Parameters file loaded: params.yaml
+2025-06-18 17:14:20,181 - INFO - created directory at: artifacts/data_ingestion
+2025-06-18 17:14:20,181 - INFO - Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion')
+2025-06-18 17:14:20,181 - INFO - created directory at: artifacts/data_ingestion
+2025-06-18 17:14:20,181 - INFO - Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion')
+2025-06-18 17:14:20,181 - INFO - self.config.local_data_file: artifacts/data_ingestion/data.zip
+2025-06-18 17:14:20,182 - INFO - Downloading file from https://github.com/krishnaik06/datasets/raw/refs/heads/main/summarizer-data.zip to artifacts/data_ingestion/data.zip
+2025-06-18 17:14:25,956 - INFO - File is downloaded
+2025-06-18 17:14:26,045 - INFO - Data Ingestion Stage completed successfully.
