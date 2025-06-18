@@ -8,7 +8,6 @@ class DataIngestionPipeline:
         pass
 
     def initiate_data_ingestion(self):
-        config=ConfigurationManager()
         config = ConfigurationManager()
         print("🧪 Source URL from config:", config.get_data_ingestion_config().source_url)
         data_ingestion_config = config.get_data_ingestion_config()
